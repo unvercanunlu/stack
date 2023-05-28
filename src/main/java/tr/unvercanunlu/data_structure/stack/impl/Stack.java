@@ -1,9 +1,9 @@
-package tr.unvercanunlu.stack.impl;
+package tr.unvercanunlu.data_structure.stack.impl;
 
-import tr.unvercanunlu.stack.IStack;
-import tr.unvercanunlu.stack.impl.exception.NegativeCapacity;
-import tr.unvercanunlu.stack.impl.exception.StackOverflow;
-import tr.unvercanunlu.stack.impl.exception.StackUnderflow;
+import tr.unvercanunlu.data_structure.stack.IStack;
+import tr.unvercanunlu.data_structure.stack.impl.exception.NegativeCapacity;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackOverflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackUnderflow;
 
 import java.util.Arrays;
 

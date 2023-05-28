@@ -1,8 +1,8 @@
 package tr.unvercanunlu.data_structure;
 
-import tr.unvercanunlu.stack.impl.exception.NegativeCapacity;
-import tr.unvercanunlu.stack.impl.exception.StackOverflow;
-import tr.unvercanunlu.stack.impl.exception.StackUnderflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.NegativeCapacity;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackOverflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackUnderflow;
 
 import java.util.HashMap;
 import java.util.Map;

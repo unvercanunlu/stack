@@ -1,7 +1,7 @@
-package tr.unvercanunlu.stack;
+package tr.unvercanunlu.data_structure.stack;
 
-import tr.unvercanunlu.stack.impl.exception.StackOverflow;
-import tr.unvercanunlu.stack.impl.exception.StackUnderflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackOverflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackUnderflow;
 
 public interface IStack<T> {
 

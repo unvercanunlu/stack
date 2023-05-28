@@ -1,9 +1,9 @@
 package tr.unvercanunlu.data_structure;
 
-import tr.unvercanunlu.stack.impl.Stack;
-import tr.unvercanunlu.stack.impl.exception.NegativeCapacity;
-import tr.unvercanunlu.stack.impl.exception.StackOverflow;
-import tr.unvercanunlu.stack.impl.exception.StackUnderflow;
+import tr.unvercanunlu.data_structure.stack.impl.Stack;
+import tr.unvercanunlu.data_structure.stack.impl.exception.NegativeCapacity;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackOverflow;
+import tr.unvercanunlu.data_structure.stack.impl.exception.StackUnderflow;
 
 import java.util.function.Predicate;
 
